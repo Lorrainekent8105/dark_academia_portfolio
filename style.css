@@ -43,3 +43,21 @@ a {
 a:hover {
     text-decoration: underline;
 }
+/* ========== Project Cards ========== */
+.project {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.project h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: #884b74;
+  font-size: 1.2rem;
+}
+
+.project ul {
+  padding-left: 1.2rem;
+  margin-top: 0.5rem;
+}
